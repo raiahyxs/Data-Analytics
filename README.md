@@ -23,7 +23,3 @@ It contains measurements such as:
 - Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data*. R package version 0.1.0.  
 
 ---
-
-### 🚀 How to View
-You can view the notebook directly on GitHub, or via [nbviewer](https://github/<raiahyxs>/<Data-Analytics>/blob/main/palmer_penguins_analysis.ipynb) if GitHub fails to render it.  
-
