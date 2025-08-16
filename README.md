@@ -25,5 +25,5 @@ It contains measurements such as:
 ---
 
 ### 🚀 How to View
-You can view the notebook directly on GitHub, or via [nbviewer](https://nbviewer.org/github/<raiahyxs>/<Data-Analytics>/blob/main/palmer_penguins_analysis.ipynb) if GitHub fails to render it.  
+You can view the notebook directly on GitHub, or via [nbviewer](https://github/<raiahyxs>/<Data-Analytics>/blob/main/palmer_penguins_analysis.ipynb) if GitHub fails to render it.  
 
