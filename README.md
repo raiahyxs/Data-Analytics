@@ -1,23 +1,25 @@
-# Palmer Penguins Analysis 🐧
+# ELEC303 Data Analysis 🐧
 
 [Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb)
 
---
+---
 
-This repository contains a Jupyter Notebook exploring the **Palmer Penguins dataset**.  
-The dataset is a great alternative to the classic Iris dataset and is often used for data visualization and statistical learning exercises.
+### 📊 Data Analytics with Jupyter Notebook
 
-## 📊 Dataset
-The **Palmer Penguins dataset** includes data on three penguin species observed in the Palmer Archipelago, Antarctica:
-- Adelie  
-- Gentoo  
-- Chinstrap  
+This repository contains a Jupyter Notebook that explores data analytics concepts and techniques. Data analytics is the process of examining raw data to uncover meaningful insights, trends, and patterns that can support decision-making.
 
-It contains measurements such as:
-- Flipper length  
-- Bill length and depth  
-- Body mass  
-- Sex and island of origin  
+Using this notebook, you can:
+
+* **Load and clean datasets** – prepare raw data for analysis by handling missing values, duplicates, and inconsistencies.
+* **Explore data visually** – use charts, graphs, and plots to identify patterns and relationships in the data.
+* **Apply statistical and analytical methods** – perform descriptive and inferential analysis to draw conclusions.
+* **Build predictive insights** – leverage machine learning models or statistical techniques to forecast outcomes.
+* **Communicate findings** – present results in a clear, interactive, and reproducible format with Jupyter.
+
+This project demonstrates how Python’s powerful data libraries (such as **pandas, NumPy, matplotlib, seaborn, and scikit-learn**) can be combined to turn raw data into actionable knowledge.
+
+---
+
 
 ## 📝 Contents
 - `palmer_penguins_analysis.ipynb` → Jupyter Notebook with analysis and visualizations.
