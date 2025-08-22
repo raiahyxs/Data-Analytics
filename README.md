@@ -1,5 +1,6 @@
 # Palmer Penguins Analysis 🐧
 
+[Activity 1]()
 This repository contains a Jupyter Notebook exploring the **Palmer Penguins dataset**.  
 The dataset is a great alternative to the classic Iris dataset and is often used for data visualization and statistical learning exercises.
 
