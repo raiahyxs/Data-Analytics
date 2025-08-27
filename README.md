@@ -20,10 +20,6 @@ This project demonstrates how Python’s powerful data libraries (such as **pand
 
 ---
 
-
-## 📝 Contents
-- `palmer_penguins_analysis.ipynb` → Jupyter Notebook with analysis and visualizations.
-
 ## 🔗 Reference
 - [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/)  
 - Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data*. R package version 0.1.0.  
