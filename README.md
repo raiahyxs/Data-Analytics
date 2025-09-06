@@ -1,6 +1,7 @@
 # ELEC303 Data Analytics 
 
 ### 🐧[Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb)
+### 🛑[Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)
 
 ---
 
@@ -22,6 +23,9 @@ This project demonstrates how Python’s powerful data libraries (such as **pand
 
 ## 🔗 Reference
 - [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/)  
-- Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data*. R package version 0.1.0.  
+- Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data*. R package version 0.1.0.
+- [UK Road Safety Data](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)  
+- Devansodariya (2023). *Road Accident United Kingdom (UK) Dataset*. Kaggle.
 
 ---
+
