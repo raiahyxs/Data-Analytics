@@ -5,7 +5,7 @@
 ### 🐧 [Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb)  
 Explores the **Palmer Penguins dataset** to practice basic data cleaning, visualization, and statistical analysis for understanding species characteristics and relationships.  
 
-### 🛑 [Activity 2 - UK Accident](https://nbviewer.org/github/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)  
+### 🛑 [Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)  
 Analyzes **UK Road Accident data** to identify patterns, trends, and contributing factors to traffic incidents using exploratory data analysis and visualization techniques.  
 
 ---
