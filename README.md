@@ -8,6 +8,13 @@ Explores the **Palmer Penguins dataset** to practice basic data cleaning, visual
 ### 🛑 [Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)  
 Analyzes **UK Road Accident data** to identify patterns, trends, and contributing factors to traffic incidents using exploratory data analysis and visualization techniques.  
 
+### 🏙️ [Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb)  
+Examines the **Chicago Crime dataset** to explore crime patterns, trends, and relationships between crime types, locations, and temporal factors.  
+This activity uses data analytics techniques including:  
+- Aggregating crime counts by type, ward, and community area  
+- Visualizing spatial distribution of crimes with maps  
+- Temporal analysis by day, hour, and season  
+
 ---
 
 ## 📊 Data Analytics with Jupyter Notebook  
@@ -23,7 +30,7 @@ Using these notebooks, you can:
 - **Build predictive insights** – leverage machine learning models or statistical techniques to forecast outcomes.  
 - **Communicate findings** – present results in a clear, interactive, and reproducible format with Jupyter.  
 
-This project demonstrates how Python’s powerful data libraries (such as **pandas, NumPy, matplotlib, seaborn, and scikit-learn**) can be combined to turn raw data into actionable knowledge.  
+This project demonstrates how Python’s powerful data libraries (such as **pandas, NumPy, matplotlib, seaborn, folium, and scikit-learn**) can be combined to turn raw data into actionable knowledge.  
 
 ---
 
@@ -33,3 +40,4 @@ This project demonstrates how Python’s powerful data libraries (such as **pand
 - Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data*. R package version 0.1.0.  
 - [UK Road Safety Data](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)  
 - Devansodariya (2023). *Road Accident United Kingdom (UK) Dataset*. Kaggle.  
+- [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)  
