@@ -7,12 +7,12 @@ Explores the **Palmer Penguins dataset** to practice basic data cleaning, visual
 
 ### 🛑 [Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)  
 👉 Use NBViewer to view interactive visualizations and maps (if available):  
-🔗 [View in NBViewer](https://nbviewer.org/urls/raw.githubusercontent.com/raiahyxs/Data-Analytics/main/ITELEC03/activity%202.ipynb)  
+🔗 [Open in Google Colab](https://colab.research.google.com/github/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)  
 Analyzes **UK Road Accident data** to identify patterns, trends, and contributing factors to traffic incidents using exploratory data analysis and visualization techniques.  
 
 ### 🏙️ [Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb)  
 👉 Use NBViewer to properly view interactive outputs such as the **Folium heatmap**:  
-🔗 [View in NBViewer](https://nbviewer.org/urls/raw.githubusercontent.com/raiahyxs/Data-Analytics/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb)  
+🔗 [Open in Google Colab](https://colab.research.google.com/github/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb)  
 Examines the **Chicago Crime dataset** to explore crime patterns, trends, and relationships between crime types, locations, and temporal factors.  
 This activity uses data analytics techniques including:  
 - Aggregating crime counts by type, ward, and community area  
