@@ -7,11 +7,12 @@ Explores the **Palmer Penguins dataset** to practice basic data cleaning, visual
 
 ### 🛑 [Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)
 👉 Use Google Colab to view interactive visualizations and maps (if available):
+
 🔗 [Open in Google Colab](https://colab.research.google.com/drive/1bjqU6dTWfeR5mY6nVuapOc29JIm7WNUc?usp=sharing)
 Analyzes **UK Road Accident data** to identify patterns, trends, and contributing factors to traffic incidents using exploratory data analysis and visualization techniques.
 
 ### 🏙️ [Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb)
-👉 Use Google Colab to properly view interactive outputs such as the **Folium heatmap**:
+👉 Use Google Colab to properly view interactive outputs such as the **Folium heatmap**
 🔗 [Open in Google Colab](https://colab.research.google.com/drive/1raNBgLtdxNUYyablbJ5BCgiTDmqK-Jeq?usp=sharing)
 Examines the **Chicago Crime dataset** to explore crime patterns, trends, and relationships between crime types, locations, and temporal factors.
 This activity uses data analytics techniques including:
