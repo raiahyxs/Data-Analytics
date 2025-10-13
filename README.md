@@ -13,6 +13,7 @@ Analyzes **UK Road Accident data** to identify patterns, trends, and contributin
 
 ### 🏙️ [Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb)
 👉 Use Google Colab to properly view interactive outputs such as the **Folium heatmap**
+
 🔗 [Open in Google Colab](https://colab.research.google.com/drive/1raNBgLtdxNUYyablbJ5BCgiTDmqK-Jeq?usp=sharing)
 Examines the **Chicago Crime dataset** to explore crime patterns, trends, and relationships between crime types, locations, and temporal factors.
 This activity uses data analytics techniques including:
