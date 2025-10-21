@@ -4,10 +4,10 @@
 
 | **Category** | **Activity** | **Description** |
 |:--------------|:-------------|:----------------|
-| 🧮 **Midterm** | [🐧 Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) | Explore penguin species data through visualization and statistical analysis. |
+| **Midterms** | [🐧 Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) | Explore penguin species data through visualization and statistical analysis. |
 |  | [🛑 Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb) | Analyze UK road accident trends using EDA and visualization. |
 |  | [🏙️ Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb) | Explore Chicago crime data using spatial and temporal analysis. |
-| 🧪 **Finals** | [🦟 Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
+| **Finals** | [🦟 Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
 |  | [💼 Assignment - Data Science Salary 2021–2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb) | Examine global data science salary trends and factors affecting pay. |
 
 ---
