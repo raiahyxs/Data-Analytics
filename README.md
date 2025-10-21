@@ -1,27 +1,37 @@
 # ELEC303 Data Analytics
 
+## 📑 Table of Contents
+
+| **Category** | **Activity** | **Description** |
+|:--------------|:-------------|:----------------|
+| 🧮 **Midterm** | [🐧 Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) | Explore penguin species data through visualization and statistical analysis. |
+|  | [🛑 Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb) | Analyze UK road accident trends using EDA and visualization. |
+|  | [🏙️ Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb) | Explore Chicago crime data using spatial and temporal analysis. |
+| 🧪 **Finals** | [🦟 Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
+|  | [💼 Assignment - Data Science Salary 2021–2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb) | Examine global data science salary trends and factors affecting pay. |
+
+---
+
 ## 📌 Midterm Activities
 
 ### 🐧 [Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb)
 Explores the **Palmer Penguins dataset** to practice basic data cleaning, visualization, and statistical analysis for understanding species characteristics and relationships.
 
 ### 🛑 [Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)
-👉 Use Google Colab to view interactive visualizations and maps (if available):
-
+👉 Use Google Colab to view interactive visualizations and maps (if available):  
 🔗 [Open in Google Colab](https://colab.research.google.com/drive/1bjqU6dTWfeR5mY6nVuapOc29JIm7WNUc?usp=sharing)
 
 Analyzes **UK Road Accident data** to identify patterns, trends, and contributing factors to traffic incidents using exploratory data analysis and visualization techniques.
 
 ### 🏙️ [Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb)
-👉 Use Google Colab to properly view interactive outputs such as the **Folium heatmap**
-
+👉 Use Google Colab to properly view interactive outputs such as the **Folium heatmap**  
 🔗 [Open in Google Colab](https://colab.research.google.com/drive/1raNBgLtdxNUYyablbJ5BCgiTDmqK-Jeq?usp=sharing)
 
-Examines the **Chicago Crime dataset** to explore crime patterns, trends, and relationships between crime types, locations, and temporal factors.
-This activity uses data analytics techniques including:
-- Aggregating crime counts by type, ward, and community area
-- Visualizing spatial distribution of crimes with maps
-- Temporal analysis by day, hour, and season
+Examines the **Chicago Crime dataset** to explore crime patterns, trends, and relationships between crime types, locations, and temporal factors.  
+Techniques used:
+- Aggregating crime counts by type, ward, and community area  
+- Visualizing spatial distribution of crimes with maps  
+- Temporal analysis by day, hour, and season  
 
 ---
 
@@ -30,16 +40,12 @@ This activity uses data analytics techniques including:
 ### 🦟 [Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 Analyzes **Dengue cases in the Philippines** to understand trends, regional hotspots, and temporal patterns of the disease through data visualization and time-series analysis.
 
----
-
 ### 💼 [Assignment - Data Science Salary 2021 to 2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb)
-👉 Use Google Colab to explore the interactive visualizations:
-
 Examines **global data science salaries from 2021 to 2023** to identify:
 - Salary trends across years and countries  
 - The relationship between experience level, job title, and salary  
 - Regional differences in compensation and remote work opportunities  
-- Visual insights through bar charts and line plot  
+- Visual insights through bar charts and line plots  
 
 This assignment emphasizes data cleaning, exploratory data analysis (EDA), and visualization to better understand the evolving data science job market.
 
@@ -78,5 +84,3 @@ This project demonstrates how Python’s powerful data libraries (such as **pand
 
 - [Data Science Salaries 2021–2023](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)  
   - Ruchi B. (2023). *Data Science Job Salaries (2021–2023)*. Kaggle.
-"""
-
