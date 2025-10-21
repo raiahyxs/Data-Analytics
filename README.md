@@ -30,17 +30,32 @@ This activity uses data analytics techniques including:
 ### 🦟 [Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 Analyzes **Dengue cases in the Philippines** to understand trends, regional hotspots, and temporal patterns of the disease through data visualization and time-series analysis.
 
+---
+
+### 💼 [Assignment - Data Science Salary 2021 to 2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb)
+👉 Use Google Colab to explore the interactive visualizations:
+
+Examines **global data science salaries from 2021 to 2023** to identify:
+- Salary trends across years and countries  
+- The relationship between experience level, job title, and salary  
+- Regional differences in compensation and remote work opportunities  
+- Visual insights through bar charts and line plot  
+
+This assignment emphasizes data cleaning, exploratory data analysis (EDA), and visualization to better understand the evolving data science job market.
+
+---
+
 ## 📊 Data Analytics with Jupyter Notebook
 
-This repository contains Jupyter Notebooks that explore data analytics concepts and techniques.
+This repository contains Jupyter Notebooks that explore data analytics concepts and techniques.  
 Data analytics is the process of examining raw data to uncover meaningful insights, trends, and patterns that can support decision-making.
 
 Using these notebooks, you can:
 
-- **Load and clean datasets** – prepare raw data for analysis by handling missing values, duplicates, and inconsistencies.
-- **Explore data visually** – use charts, graphs, and plots to identify patterns and relationships in the data.
-- **Apply statistical and analytical methods** – perform descriptive and inferential analysis to draw conclusions.
-- **Build predictive insights** – leverage machine learning models or statistical techniques to forecast outcomes.
+- **Load and clean datasets** – prepare raw data for analysis by handling missing values, duplicates, and inconsistencies.  
+- **Explore data visually** – use charts, graphs, and plots to identify patterns and relationships in the data.  
+- **Apply statistical and analytical methods** – perform descriptive and inferential analysis to draw conclusions.  
+- **Build predictive insights** – leverage machine learning models or statistical techniques to forecast outcomes.  
 - **Communicate findings** – present results in a clear, interactive, and reproducible format with Jupyter.
 
 This project demonstrates how Python’s powerful data libraries (such as **pandas, NumPy, matplotlib, seaborn, folium, and scikit-learn**) can be combined to turn raw data into actionable knowledge.
@@ -49,14 +64,19 @@ This project demonstrates how Python’s powerful data libraries (such as **pand
 
 ## 🔗 References
 
-- [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/)
+- [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/)  
   - Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data*. R package version 0.1.0.
 
-- [UK Road Safety Data](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)
+- [UK Road Safety Data](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)  
   - Devansodariya (2023). *Road Accident United Kingdom (UK) Dataset*. Kaggle.
 
-- [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
+- [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)  
   - City of Chicago (2023). *Crimes - 2001 to Present*. City of Chicago Data Portal.
 
-- [Dengue Cases in the Philippines](https://www.kaggle.com/datasets/vincentgupo/dengue-cases-in-the-philippines)
+- [Dengue Cases in the Philippines](https://www.kaggle.com/datasets/vincentgupo/dengue-cases-in-the-philippines)  
   - Gupo, V. (2024). *Dengue Cases in the Philippines*. Kaggle.
+
+- [Data Science Salaries 2021–2023](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)  
+  - Ruchi B. (2023). *Data Science Job Salaries (2021–2023)*. Kaggle.
+"""
+
