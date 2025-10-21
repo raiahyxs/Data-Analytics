@@ -1,18 +1,18 @@
-# ELEC303 Data Analytics
+# ELEC303 Data Analytics  
 
-## 📑 Table of Contents
+## 📑 Table of Contents  
 
-| **Category** | **Activity** | **Description** |
-|:--------------|:-------------|:----------------|
-| **Midterms** | [🐧 Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) | Explore penguin species data through visualization and statistical analysis. |
+| 🧭 **Category** | 🧩 **Activity** | 📝 **Description** |
+|:----------------|:----------------|:-------------------|
+| 🎯 **Midterms** | [🐧 Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) | Explore penguin species data through visualization and statistical analysis. |
 |  | [🛑 Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb) | Analyze UK road accident trends using EDA and visualization. |
 |  | [🏙️ Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb) | Explore Chicago crime data using spatial and temporal analysis. |
-| **Finals** | [🦟 Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
+| 🧪 **Finals** | [🦟 Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
 |  | [💼 Assignment - Data Science Salary 2021–2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb) | Examine global data science salary trends and factors affecting pay. |
 
 ---
 
-## 📌 Midterm Activities
+## 📌 Midterm Activities  
 
 ### 🐧 [Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb)
 Explores the **Palmer Penguins dataset** to practice basic data cleaning, visualization, and statistical analysis for understanding species characteristics and relationships.
@@ -35,7 +35,7 @@ Techniques used:
 
 ---
 
-## 📌 Finals Activities
+## 📌 Finals Activities  
 
 ### 🦟 [Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 Analyzes **Dengue cases in the Philippines** to understand trends, regional hotspots, and temporal patterns of the disease through data visualization and time-series analysis.
@@ -51,7 +51,7 @@ This assignment emphasizes data cleaning, exploratory data analysis (EDA), and v
 
 ---
 
-## 📊 Data Analytics with Jupyter Notebook
+## 📊 Data Analytics with Jupyter Notebook  
 
 This repository contains Jupyter Notebooks that explore data analytics concepts and techniques.  
 Data analytics is the process of examining raw data to uncover meaningful insights, trends, and patterns that can support decision-making.
@@ -68,7 +68,7 @@ This project demonstrates how Python’s powerful data libraries (such as **pand
 
 ---
 
-## 🔗 References
+## 🔗 References  
 
 - [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/)  
   - Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data*. R package version 0.1.0.
