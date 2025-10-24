@@ -9,6 +9,7 @@
 |  | [🏙️ Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb) | Explore Chicago crime data using spatial and temporal analysis. |
 | 🧪 **Finals** | [🦟 Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
 |  | [💼 Assignment - Data Science Salary 2021–2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb) | Examine global data science salary trends and factors affecting pay. |
+|  | [📈 Logistic Regression - Classification Model](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/LogisticRegression_Vasquez_Rhealyn.ipynb) | Implement logistic regression for binary classification, model evaluation, and prediction. |
 
 ---
 
@@ -49,6 +50,17 @@ Examines **global data science salaries from 2021 to 2023** to identify:
 
 This assignment emphasizes data cleaning, exploratory data analysis (EDA), and visualization to better understand the evolving data science job market.
 
+### 📈 [Logistic Regression - Classification Model](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/LogisticRegression_Vasquez_Rhealyn.ipynb)
+Applies **Logistic Regression**, a key **classification algorithm**, to predict categorical outcomes based on input features.  
+Key components include:
+- Data preprocessing and feature selection  
+- Splitting dataset into training and testing sets  
+- Training and evaluating the logistic regression model  
+- Model performance metrics (accuracy, precision, recall, confusion matrix, ROC curve)  
+- Visualization of decision boundaries and prediction results  
+
+This activity demonstrates how logistic regression can be used for **binary classification problems** and model evaluation using Python’s **scikit-learn** library.
+
 ---
 
 ## 📊 Data Analytics with Jupyter Notebook  
@@ -84,3 +96,6 @@ This project demonstrates how Python’s powerful data libraries (such as **pand
 
 - [Data Science Salaries 2021–2023](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)  
   - Ruchi B. (2023). *Data Science Job Salaries (2021–2023)*. Kaggle.
+
+- [Logistic Regression Model Reference](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)  
+  - *Scikit-learn Documentation*. Logistic Regression for Classification Tasks.
