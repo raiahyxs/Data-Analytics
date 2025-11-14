@@ -7,9 +7,11 @@
 | 🎯 **Midterms** | [🐧 Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) | Explore penguin species data through visualization and statistical analysis. |
 |  | [🛑 Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb) | Analyze UK road accident trends using EDA and visualization. |
 |  | [🏙️ Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb) | Explore Chicago crime data using spatial and temporal analysis. |
-| 🧪 **Finals** | [🦟 Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
+| 🧪 **Finals** | [🦟 Project 3 - PH Dengue Analysis w/ Linear Regression](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
 |  | [💼 Assignment - Data Science Salary 2021–2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb) | Examine global data science salary trends and factors affecting pay. |
 |  | [📈 Logistic Regression - Classification Model](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/LogisticRegression_Vasquez_Rhealyn.ipynb) | Implement logistic regression for binary classification, model evaluation, and prediction. |
+| 🤖 **Machine Learning** | [🚢 Titanic Survivability Prediction](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/TitanicSurvavility_MachineLearning.ipynb) | Predict survival of Titanic passengers using machine learning models and feature analysis. |
+|  | [📊 Machine Learning Exercise 1](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb) | Practice core machine learning concepts, including model training, evaluation, and prediction tasks. |
 
 ---
 
@@ -60,6 +62,24 @@ Key components include:
 - Visualization of decision boundaries and prediction results  
 
 This activity demonstrates how logistic regression can be used for **binary classification problems** and model evaluation using Python’s **scikit-learn** library.
+
+---
+
+## 🤖 Machine Learning Activities  
+
+### 🚢 [Titanic Survivability Prediction](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/TitanicSurvavility_MachineLearning.ipynb)
+Predicts **Titanic passenger survival** using various machine learning models. Covers:
+- Data preprocessing (handling missing values, encoding categorical variables)  
+- Feature selection and engineering  
+- Model training and evaluation (accuracy, confusion matrix, ROC curve)  
+- Comparing model performance for classification tasks  
+
+### 📊 [Machine Learning Exercise 1](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb)
+Practices **core machine learning concepts** including:
+- Model selection and training  
+- Evaluation metrics for regression and classification  
+- Prediction on unseen data  
+- Interpretation of results  
 
 ---
 
