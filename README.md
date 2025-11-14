@@ -40,7 +40,7 @@ Techniques used:
 
 ## 📌 Finals Activities  
 
-### 🦟 [Project 3 - PH Dengue Analysis](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
+### 🦟 [Project 3 - PH Dengue Analysis w/ Linear Regression](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
 Analyzes **Dengue cases in the Philippines** to understand trends, regional hotspots, and temporal patterns of the disease through data visualization and time-series analysis.
 
 ### 💼 [Assignment - Data Science Salary 2021 to 2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb)
