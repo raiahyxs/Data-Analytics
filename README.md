@@ -10,8 +10,8 @@
 | 🧪 **Finals** | [🦟 Project 3 - PH Dengue Analysis w/ Linear Regression](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
 |  | [💼 Assignment - Data Science Salary 2021–2023](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb) | Examine global data science salary trends and factors affecting pay. |
 |  | [📈 Logistic Regression - Classification Model](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/LogisticRegression_Vasquez_Rhealyn.ipynb) | Implement logistic regression for binary classification, model evaluation, and prediction. |
-| 🤖 **Machine Learning** | [🚢 Titanic Survivability Prediction](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/TitanicSurvavility_MachineLearning.ipynb) | Predict survival of Titanic passengers using machine learning models and feature analysis. |
-|  | [📊 Machine Learning Exercise 1](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb) | Practice core machine learning concepts, including model training, evaluation, and prediction tasks. |
+| 🤖 **Machine Learning** | [🚢 Titanic Survivability Prediction](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/TitanicSurvavility_MachineLearning.ipynb) | Predict survival of Titanic passengers using machine learning models and feature analysis. |
+|  | [📊 Machine Learning Exercise 1](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb) | Practice core machine learning concepts, including model training, evaluation, and prediction tasks. |
 
 ---
 
@@ -67,14 +67,14 @@ This activity demonstrates how logistic regression can be used for **binary clas
 
 ## 🤖 Machine Learning Activities  
 
-### 🚢 [Titanic Survivability Prediction](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/TitanicSurvavility_MachineLearning.ipynb)
+### 🚢 [Titanic Survivability Prediction](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/TitanicSurvavility_MachineLearning.ipynb)
 Predicts **Titanic passenger survival** using various machine learning models. Covers:
 - Data preprocessing (handling missing values, encoding categorical variables)  
 - Feature selection and engineering  
 - Model training and evaluation (accuracy, confusion matrix, ROC curve)  
 - Comparing model performance for classification tasks  
 
-### 📊 [Machine Learning Exercise 1](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb)
+### 📊 [Machine Learning Exercise 1](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb)
 Practices **core machine learning concepts** including:
 - Model selection and training  
 - Evaluation metrics for regression and classification  
