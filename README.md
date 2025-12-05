@@ -2,8 +2,6 @@
 
 ## 📑 Table of Contents  
 
-## 📑 Table of Contents  
-
 | 🧭 **Category** | 🧩 **Activity** | 📝 **Description** |
 |:----------------|:----------------|:-------------------|
 | 🎯 **Midterms** | [🐧 Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) | Explore penguin species data through visualization and statistical analysis. |
