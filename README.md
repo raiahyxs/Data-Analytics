@@ -1,92 +1,146 @@
-# ELEC303 Data Analytics
+<div align="center">
 
-## 📑 Table of Contents
+# 📊 DATA ANALYTICS
 
-| 🧭 **Category** | 🧩 **Activity** | 📝 **Description** |
-|:----------------|:----------------|:-------------------|
-| 🎯 **Midterms** | [🐧 Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) | Explore penguin species data through visualization and statistical analysis. |
-| | [🛑 Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb) | Analyze UK road accident trends using EDA and visualization. |
-| | [🏙️ Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb) | Explore Chicago crime data using spatial and temporal analysis. |
-| 🧪 **Finals** | [🦟 PROJECT3_PH_DENGUE_ANALYSIS](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
-| | [PROJECT4_LINEAR_REGRESSION](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT4_LINEAR_REGRESSION.ipynb) | Apply Linear Regression for predictive modeling and data analysis. |
-| | [🏠 PROJECT5_HOUSING_PRICE_VASQUEZ_RHEALYN](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT5_HOUSING_PRICE_VASQUEZ_RHEALYN.ipynb) | Analyze housing data using Linear and Logistic Regression to predict sale prices and classify houses above/below median price. |
-| 🤖 **Machine Learning** | [PROJECT6_TITANICSURVAVILITY_MachineLearning](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT6_TITANICSURVAVILITY_MachineLearning.ipynb) | Predict survival of Titanic passengers using machine learning models and feature analysis. |
-| | [📊 Machine Learning Exercise 1](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb) | Practice core machine learning concepts, including model training, evaluation, and prediction tasks. |
-| 📊 **Power BI** | [PROJECT7_VASQUEZ_POWER_BI](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT7_VASQUEZ_POWER_BI.pdf) | Visualize movie revenue and ratings trends using Power BI dashboards and interactive charts. |
-| | [💼 Assignment - Vasquez_Rhealyn_SalaryPrediction](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb) | Examine global data science salary trends and factors affecting pay. |
-| | [📈 LogisticRegression_Vasquez_Rhealyn](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/LogisticRegression_Vasquez_Rhealyn.ipynb) | Implement logistic regression for binary classification, model evaluation, and prediction. |
-| 📁 **Finals Project** | [ELEC FINALS PROJECT](https://github.com/raiahyxs/Data-Analytics/tree/main/ITELEC03/ELEC_FINALS_PROJECT) | Repository for the main finals project. |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+meaningful+insights.;Exploring+patterns.+Understanding+trends.;Visualizing+stories+hidden+in+numbers." alt="Animated data analytics heading" />
 
----
+<br />
 
-## 📌 Midterm Activities
+**Explore. Analyze. Visualize. Predict.**
 
-### 🐧 [Activity 1 - Palmer Penguin](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb)
-Explores the **Palmer Penguins dataset** to practice basic data cleaning, visualization, and statistical analysis for understanding species characteristics and relationships.
-🔗 [Open in Google Colab](https://colab.research.google.com/drive/1bjqU6dTWfeR5mY6nVuapOc29JIm7WNUc?usp=sharing)
+A collection of notebooks, predictive models, and dashboards  
+exploring the stories behind real-world data.
 
-### 🛑 [Activity 2 - UK Accident](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb)
-Analyzes **UK Road Accident data** to identify patterns, trends, and contributing factors to traffic incidents using exploratory data analysis and visualization techniques.
-🔗 [Open in Google Colab](https://colab.research.google.com/drive/1bjqU6dTWfeR5mY6nVuapOc29JIm7WNUc?usp=sharing)
+<br />
 
-### 🏙️ [Midterms Exam - Chicago Crime](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb)
-Examines the **Chicago Crime dataset** to explore crime patterns, trends, and relationships between crime types, locations, and temporal factors.
-🔗 [Open in Google Colab](https://colab.research.google.com/drive/1raNBgLtdxNUYyablbJ5BCgiTDmqK-Jeq?usp=sharing)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
+![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=F59E0B)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Power BI](https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logoColor=FACC15)
+![Google Colab](https://img.shields.io/badge/Google_Colab-0F172A?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
+
+<br />
+
+[Explore the Collection](#-explore-the-collection) · [Analysis Workflow](#-analysis-workflow) · [References](#-references)
+
+</div>
 
 ---
 
-## 📌 Finals Activities
+## 🔎 Behind the Numbers
 
-### 🦟 [PROJECT3_PH_DENGUE_ANALYSIS](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb)
-Analyzes **Dengue cases in the Philippines** to understand trends, regional hotspots, and temporal patterns of the disease through data visualization and time-series analysis.
+How do housing prices vary? Which factors relate to passenger survival? What patterns appear in public health and road safety data?
 
-### 💼 [Assignment - Vasquez_Rhealyn_SalaryPrediction](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb)
-Examines **global data science salaries** to identify trends across years, countries, and job roles using data cleaning, EDA, and visualization.
+This collection explores these questions through **data cleaning**, **exploratory analysis**, **statistical modeling**, and **visual storytelling**.
 
-### 📈 [LogisticRegression_Vasquez_Rhealyn](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/LogisticRegression_Vasquez_Rhealyn.ipynb)
-Applies **Logistic Regression** to predict binary outcomes, including preprocessing, training, evaluation, and visualization of results.
-
-### [PROJECT4_LINEAR_REGRESSION](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT4_LINEAR_REGRESSION.ipynb)
-Performs **Linear Regression** analysis for prediction tasks and data interpretation.
-
-### 🏠 [PROJECT5_HOUSING_PRICE_VASQUEZ_RHEALYN](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT5_HOUSING_PRICE_VASQUEZ_RHEALYN.ipynb)
-Analyzes **housing data** using Linear and Logistic Regression to:
-- Predict exact sale prices
-- Classify houses as above or below the median price
-- Visualize predictions and compare to median price for actionable insights
-🔗 [Open in Google Colab](https://colab.research.google.com/drive/1K3rlduGH4MeOzg82Vt0r72sbJAkdrYga?usp=sharing)
+> 💡 Every dataset offers an opportunity to ask better questions and uncover useful insights.
 
 ---
 
-## 🤖 Machine Learning Activities
+## 📚 Explore the Collection
 
-### [PROJECT6_TITANICSURVAVILITY_MachineLearning](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT6_TITANICSURVAVILITY_MachineLearning.ipynb)
-Predicts **Titanic passenger survival** using machine learning models with feature selection, preprocessing, training, and evaluation.
-
-### 📊 [Machine Learning Exercise 1](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb)
-Practices **core machine learning concepts**: model training, evaluation, predictions, and interpretation.
+| | Analysis | Focus | Explore |
+|:--:|:---------|:------|:-------:|
+| 🐧 | **Palmer Penguins** | Explore species characteristics and relationships through statistical analysis and visualization. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%201.ipynb) |
+| 🚦 | **UK Road Accidents** | Examine accident trends, patterns, and contributing factors through exploratory data analysis. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/activity%202.ipynb) |
+| 🏙️ | **Chicago Crime** | Investigate crime patterns across locations, crime types, and time. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/MIDTERMS%20EXAMS/MIDTERM_EXAM.ipynb) |
+| 🦟 | **Philippine Dengue Analysis** | Explore regional trends and changes in dengue cases over time. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT3_PH_DENGUE_ANALYSIS.ipynb) |
+| 📉 | **Linear Regression** | Model relationships between variables for prediction and interpretation. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT4_LINEAR_REGRESSION.ipynb) |
+| 🏠 | **Housing Price Analysis** | Predict sale prices and classify houses above or below the median price. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT5_HOUSING_PRICE_VASQUEZ_RHEALYN.ipynb) |
+| 🚢 | **Titanic Survival Prediction** | Explore passenger features and predict survival using machine learning. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT6_TITANICSURVAVILITY_MachineLearning.ipynb) |
+| 🤖 | **Machine Learning Fundamentals** | Practice model training, evaluation, prediction, and interpretation. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Machine_Learning_Exercise1-VASQUEZ_%20RHEALYN.ipynb) |
+| 🎬 | **Movie Revenue and Ratings** | Explore movie trends through a PDF report featuring Power BI visualizations. | [Report ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT7_VASQUEZ_POWER_BI.pdf) |
+| 💼 | **Data Science Salaries** | Examine salary patterns across years, countries, and job roles. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/Vasquez_Rhealyn_SalaryPrediction.ipynb) |
+| 📈 | **Logistic Regression** | Predict binary outcomes through preprocessing, training, and evaluation. | [Notebook ↗](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/LogisticRegression_Vasquez_Rhealyn.ipynb) |
+| 📂 | **Data Analytics Collection** | Browse additional analytics files, datasets, and resources. | [Collection ↗](https://github.com/raiahyxs/Data-Analytics/tree/main/ITELEC03/ELEC_FINALS_PROJECT) |
 
 ---
 
-## 📊 Power BI
+## ⚙️ Analysis Workflow
 
-### [PROJECT7_VASQUEZ_POWER_BI](https://github.com/raiahyxs/Data-Analytics/blob/main/ITELEC03/FINALS-ACTIVITIES/PROJECT7_VASQUEZ_POWER_BI.pdf)
-Visualizes **movie revenue and ratings trends** using Power BI dashboards. Includes interactive charts and insights for decision-making.
+| Step | Approach |
+|:-----|:---------|
+| **01 · Ask** 🔎 | Define the question and understand the dataset. |
+| **02 · Prepare** 🧹 | Inspect missing values, data types, and inconsistencies. |
+| **03 · Explore** 📊 | Examine distributions, relationships, and trends. |
+| **04 · Model** 🧠 | Apply regression or classification when relevant. |
+| **05 · Evaluate** 🎯 | Assess results and recognize limitations. |
+| **06 · Communicate** 💬 | Present findings through clear visuals and explanations. |
 
 ---
 
-## 📁 Other Projects
+## ✨ Inside the Collection
 
-### [ELEC FINALS PROJECT](https://github.com/raiahyxs/Data-Analytics/tree/main/ITELEC03/ELEC_FINALS_PROJECT)
-Repository containing files and data related to the final project for the ELEC303 Data Analytics course.
+<details>
+<summary><b>🔍 Data Exploration & Visualization</b></summary>
+
+<br />
+
+Explore penguin species, road accidents, crime records, dengue cases, and salary data.
+
+- Clean and prepare datasets for analysis.
+- Examine patterns and relationships between variables.
+- Communicate observations through visualizations.
+
+</details>
+
+<details>
+<summary><b>🧠 Predictive Modeling</b></summary>
+
+<br />
+
+Explore how statistical methods and machine learning support prediction.
+
+- **Linear regression:** Estimate continuous values, such as housing prices.
+- **Logistic regression:** Classify binary outcomes.
+- **Titanic survival:** Explore passenger features and survival predictions.
+- **Model evaluation:** Interpret predictions and assess performance.
+
+</details>
+
+<details>
+<summary><b>🎬 Dashboard Storytelling</b></summary>
+
+<br />
+
+Explore movie revenue and ratings through **Power BI** visualizations.
+
+The linked PDF provides a static view of the dashboard visuals and findings.
+
+</details>
+
+---
+
+## 🚀 Open in Google Colab
+
+Explore the linked notebooks directly in your browser.
+
+| Notebook | Launch |
+|:---------|:-------|
+| 🐧 Palmer Penguins | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bjqU6dTWfeR5mY6nVuapOc29JIm7WNUc?usp=sharing) |
+| 🚦 UK Road Accidents | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bjqU6dTWfeR5mY6nVuapOc29JIm7WNUc?usp=sharing) |
+| 🏙️ Chicago Crime | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1raNBgLtdxNUYyablbJ5BCgiTDmqK-Jeq?usp=sharing) |
+| 🏠 Housing Price Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K3rlduGH4MeOzg82Vt0r72sbJAkdrYga?usp=sharing) |
 
 ---
 
 ## 🔗 References
 
-- [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/)
+- [Palmer Penguins Dataset](https://allisonhorst.github.io/palmerpenguins/)
 - [UK Road Safety Data](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)
 - [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
 - [Dengue Cases in the Philippines](https://www.kaggle.com/datasets/vincentgupo/dengue-cases-in-the-philippines)
-- [Data Science Salaries 2021–2023](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+- [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 - [Scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+---
+
+<div align="center">
+
+**Curiosity starts the analysis. Data shapes the story.**
+
+📊 &nbsp; 🔍 &nbsp; 🧠 &nbsp; 📈
+
+[Back to Top ↑](#-data-analytics)
+
+</div>
